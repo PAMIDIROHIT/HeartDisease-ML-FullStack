@@ -346,7 +346,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-prediction.git
+git clone https://github.com/PAMIDIROHIT/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
